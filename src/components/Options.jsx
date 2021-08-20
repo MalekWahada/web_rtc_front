@@ -11,7 +11,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
 import {
     Assignment,
-    Phone,
     PhoneDisabled,
 } from '@material-ui/icons';
 
